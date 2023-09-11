@@ -39,6 +39,6 @@ Sheet 4 is a Dual Axis Graph with the two axis being Weight and Quantity and its
     Trade-Commodity Dashboard provides a consolidated view of key information, data, or performance indicators in a single location for Trade-commodity dataset.
 
 LINK TO DASHBOARDS-
-    1) https://public.tableau.com/views/Covid19_16943762682370/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+1) https://public.tableau.com/views/Covid19_16943762682370/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
     
-    2) https://public.tableau.com/views/TRADEUSD/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+2) https://public.tableau.com/views/TRADEUSD/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
