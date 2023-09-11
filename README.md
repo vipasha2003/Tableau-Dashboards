@@ -5,7 +5,7 @@ These Tableau projects involve using data visualization techniques to extract me
 This repository contains 2 Tableau Projects 
 
 1.) Covid-19 Analysis:
-Dataset: country_wise_latest
+Dataset: country_wise_latest\n
 Source: Kaggle
 Sheet 1 contains a map which displays Deaths per Country 
 Sheet 2 is a DUAL AXIS GRAPH which has two axis showing Confirmed cases and Active cases in different Country/Region
